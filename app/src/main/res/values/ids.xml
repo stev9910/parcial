@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="NumberA" type="id" />
+    <item name="NumberA" type="id" />
+    <item name="NumberB" type="id" />
+    <item name="repotencia" type="id" />
+    <item name="potencia" type="id" />
+    <item name="remultiplicacion" type="id" />
+</resources>
